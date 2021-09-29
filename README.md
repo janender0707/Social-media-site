@@ -6,6 +6,11 @@ a user can add friends, can create posts and can add likes and comments on other
 A Chatting engine is made with socket.io. All records of a user, user id, posts, comments are being recorded in a Database.
 MongoDB is used as Database.
 
+Screenshots:
+![image](https://user-images.githubusercontent.com/87467419/135202599-39e21fa8-c651-4b1b-bbc6-b24e92fd7bb7.png)
+![image](https://user-images.githubusercontent.com/87467419/135202620-db66679b-9dc3-4c19-8216-0fd7d7cb3def.png)
+
+
 Technology stack : 
 * HTML,CSS,Javascript,jQuery,Ajax,Sass
 * Node.js,MongoDB,Express.js
